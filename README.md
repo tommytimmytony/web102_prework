@@ -45,8 +45,8 @@ GIF created with LICEcap
 
 Describe any challenges encountered while building the app.
 - There was alot of research needed inorder for me to implement many functions of the app (scroll to element, get specfic HTML elements, animations, positioning div, and many more). 
-- Encounter alot of erros because I forgot some important features of Javascript methods. For example, the method sort will mutate the oringal array. 
-- Spent of time dealing with addEventListener. The method addEventListener doesn't work well with non-static element. Therefore, there was alot of work needed to work around this case. Hence, many original functions was modify inorder to make my element work with addEventListener. 
+- Encounter alot of erros because I forgot some important features of Javascript methods. For example, the method sort will mutate the original array. 
+- Spent alot of time dealing with addEventListener. The method addEventListener doesn't work well with non-static element. Therefore, there was alot of work needed to work around this case. Hence, many original functions was modify inorder to make my element work with addEventListener. 
 
 ## License
 
